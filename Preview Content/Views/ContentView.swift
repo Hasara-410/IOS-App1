@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Cine Learn
 //
-//  Created by Hasara Herath on 01/11/25.
+//  Created by Hasara Herath
 //
 
 import SwiftUI

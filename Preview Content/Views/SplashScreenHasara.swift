@@ -18,7 +18,7 @@ struct SplashScreenHasara: View {
                 if !showNextScreen {
                     VStack {
                         // App Logo
-                        Image("SplashHasara") // Replace with your image name
+                        Image("SplashHasara") // image
                             .resizable()
                             .scaledToFit()
                             .frame(width: 200, height: 200)

@@ -7,6 +7,7 @@ struct ExamMenuView: View {
         NavigationView { // Wrap the entire view in a NavigationView for navigation support
             VStack(spacing: 20) {
                 // Header with dynamic text color based on dark/light mode
+                //theme change
                 HStack {
                     Text("Exam Menu")
                         .font(.title3)
